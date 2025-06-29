@@ -6,8 +6,8 @@ st.set_page_config(page_title="DataBot", layout="wide")
 st.title("📊🧠 Smart Query Chatbot")
 
 # Backend URL - change this to your Render backend URL
-BACKEND_URL = "http://localhost:8000"  # For local development
-# BACKEND_URL = "https://your-app-name.onrender.com"  # For production
+# BACKEND_URL = "http://localhost:8000"  # For local development
+BACKEND_URL = "https://your-app-name.onrender.com"  # For production - REPLACE with your actual Render URL
 
 # Check backend connection
 def check_backend_connection():
