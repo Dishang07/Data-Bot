@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+pandas
+openpyxl
+PyPDF2
+python-docx
+sentence-transformers
+qdrant-client
+python-dotenv
+google-generativeai
+requests
